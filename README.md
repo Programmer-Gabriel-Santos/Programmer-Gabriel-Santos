@@ -12,7 +12,7 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
-  frameworksAndLibs = ['NodeJS','React', 'Express', 'Axios', 'Knex', 'MySQL', 'Jest', 'styled-components', 'material-ui', 'Others'];
+  frameworksAndLibs = ['NodeJS','React', 'Express', 'Axios', 'Knex', 'MySQL', 'Jest', 'material-ui', 'Others'];
 }
 ```
 
