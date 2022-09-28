@@ -1,4 +1,4 @@
-## Olá!👋 Eu sou Gabriel, seja bem vindo ao meu github.
+## Olá!👋 Sou Gabriel, seja bem vindo ao meu github.
 
 
 ```Typescript
@@ -16,7 +16,7 @@ class Skills extends Developer {
 }
 ```
 
-<div align="center">
+<div align="lefth">
   <a href="https://github.com/Programmer-Gabriel-Santos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Programmer-Gabriel-Santos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
