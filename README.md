@@ -1,4 +1,4 @@
-## Olá!👋 Sou Gabriel, seja bem vindo ao meu github.
+## Olá!👋 Seja bem vindo ao meu github.
 
 
 ```Typescript
