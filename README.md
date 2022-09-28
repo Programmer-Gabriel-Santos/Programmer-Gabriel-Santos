@@ -1,7 +1,8 @@
 ## Olá!👋 Eu sou Gabriel, seja bem vindo ao meu github.
 
 
- import Developer from 'GabrielSantos';
+```Typescript
+import Developer from 'GabrielSantos';
 
 class AboutMe extends Developer {
   name = 'Gabriel Dos Santos Silva';
@@ -11,8 +12,9 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
-  frameworksAndLibs = ['NodeJS','React', 'Express', 'Jest', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
+  frameworksAndLibs = ['NodeJS','React', 'Express', 'Axios', 'Knex', 'MySQL', 'Jest', 'styled-components', 'material-ui', 'Others'];
 }
+```
 
 <div align="center">
   <a href="https://github.com/Programmer-Gabriel-Santos">
