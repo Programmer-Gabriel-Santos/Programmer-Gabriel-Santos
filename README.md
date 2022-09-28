@@ -1,18 +1,17 @@
 ## Olá!👋 Eu sou Gabriel, seja bem vindo ao meu github.
 
-- 🌱 Atualmente estou me dedicando aos estudos do back end com TypeScript e nodeJS.
 
-import Developer from 'MelissaCopetti';
+ import Developer from 'MelissaCopetti';
 
 class AboutMe extends Developer {
-  name = 'Melissa Fernanda Copetti';
+  name = 'Gabriel Dos Santos Silva';
   acknowledgements = 'Full Stack Developer';
   learning = 'Back end';
 }
 
 class Skills extends Developer {
   languages = ['JavaScript', 'TypeScript'];
-  frameworksAndLibs = ['React', 'Express', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
+  frameworksAndLibs = ['NodeJS','React', 'Express', 'Jest', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
 }
 
 <div align="center">
