@@ -1,7 +1,7 @@
 ## Olá!👋 Eu sou Gabriel, seja bem vindo ao meu github.
 
 
- import Developer from 'MelissaCopetti';
+ import Developer from 'GabrielSantos';
 
 class AboutMe extends Developer {
   name = 'Gabriel Dos Santos Silva';
