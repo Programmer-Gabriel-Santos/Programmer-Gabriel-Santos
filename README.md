@@ -2,6 +2,19 @@
 
 - 🌱 Atualmente estou me dedicando aos estudos do back end com TypeScript e nodeJS.
 
+import Developer from 'MelissaCopetti';
+
+class AboutMe extends Developer {
+  name = 'Melissa Fernanda Copetti';
+  acknowledgements = 'Full Stack Developer';
+  learning = 'Back end';
+}
+
+class Skills extends Developer {
+  languages = ['JavaScript', 'TypeScript'];
+  frameworksAndLibs = ['React', 'Express', 'Axios', 'Knex', 'MySQL', 'styled-components', 'material-ui', 'Others'];
+}
+
 <div align="center">
   <a href="https://github.com/Programmer-Gabriel-Santos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Programmer-Gabriel-Santos&show_icons=true&theme=gradiente&include_all_commits=true&count_private=true"/>
